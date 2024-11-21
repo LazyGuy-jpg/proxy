@@ -13,7 +13,7 @@ HTTP/HTTPS PROXY (On Port 5515)
 
 PROXY CHECKER
 ```
-[Click Here](https://proxy-seller.com/tools/proxy-checker/)
+https://proxy-seller.com/tools/proxy-checker/
 ```
 COMMAND LINES
 ```
